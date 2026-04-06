@@ -1,0 +1,82 @@
+{
+    "student": "Ananya Reddy",
+    "analysis": {
+        "avg_score": 49.14,
+        "accuracy": 0.83,
+        "avg_time": 97.71,
+        "completion_rate": 1.0,
+        "strengths": [
+            "Kinematics",
+            "Heat Transfer",
+            "Electrostatics",
+            "Rotational Mechanics"
+        ],
+        "weaknesses": [
+            "Organic Chemistry",
+            "Physical Chemistry"
+        ],
+        "issues": []
+    },
+    "recommendations": [
+        {
+            "qid": "aead49a6fa5ca9f7ac8cb365",
+            "topic": "rotational_mechanics",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "bd49440204fd424ded5edecb",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "97706ca828bca0385813dbad",
+            "topic": "heat_transfer",
+            "difficulty": 2,
+            "score": 0.0
+        },
+        {
+            "qid": "a880627df7ffe0297c79bfbd",
+            "topic": "thermodynamics",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "17490a39ef0a6668f40c1851",
+            "topic": "calculus",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "ae7dc1cac13ee17c1c169ec9",
+            "topic": "probability",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "eb2c6d6f8a9a4fa113e035ee",
+            "topic": "optics",
+            "difficulty": 5,
+            "score": 0.0
+        },
+        {
+            "qid": "e01fcd3fe22a4248ac9ed336",
+            "topic": "optics",
+            "difficulty": 1,
+            "score": 0.0
+        },
+        {
+            "qid": "ad303877ebce4b0f39d234b9",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.0
+        },
+        {
+            "qid": "75d3bed355ca5ebaabdda76c",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.0
+        }
+    ]
+}

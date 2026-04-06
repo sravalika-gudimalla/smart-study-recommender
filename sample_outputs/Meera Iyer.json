@@ -1,0 +1,80 @@
+{
+    "student": "Meera Iyer",
+    "analysis": {
+        "avg_score": 47.0,
+        "accuracy": 1.0,
+        "avg_time": 111.57,
+        "completion_rate": 1.0,
+        "strengths": [
+            "Coordinate Geometry",
+            "Optics"
+        ],
+        "weaknesses": [
+            "Electrostatics",
+            "Algebra"
+        ],
+        "issues": []
+    },
+    "recommendations": [
+        {
+            "qid": "a24b9c429ca42db0b956af67",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        },
+        {
+            "qid": "add49c5f7794e1dd4c786a2e",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "2545a102186d0f99f7c9e215",
+            "topic": "electrostatics",
+            "difficulty": 2,
+            "score": 0.7634
+        },
+        {
+            "qid": "7a7da82b31571c2e99a2e0b6",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "99b364f73bb387d080589ab0",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "511210d472406eb1ff00d008",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "71ce761497aa7947d9815df1",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "53964b50af03b971722f244f",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        },
+        {
+            "qid": "6e92df49784dc2efcd1b237b",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        },
+        {
+            "qid": "ad303877ebce4b0f39d234b9",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        }
+    ]
+}

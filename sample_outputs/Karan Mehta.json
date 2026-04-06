@@ -1,0 +1,86 @@
+{
+    "student": "Karan Mehta",
+    "analysis": {
+        "avg_score": 30.0,
+        "accuracy": 0.78,
+        "avg_time": 116.67,
+        "completion_rate": 0.67,
+        "strengths": [
+            "Heat Transfer"
+        ],
+        "weaknesses": [
+            "Kinematics",
+            "Algebra",
+            "Rotational Mechanics",
+            "Organic Chemistry",
+            "Chemical Bonding",
+            "Probability"
+        ],
+        "issues": [
+            "low_score",
+            "time_management"
+        ]
+    },
+    "recommendations": [
+        {
+            "qid": "b43c3a29ecd775fc2a6dda75",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "5eb129abc2d29f438ad66132",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "cf84d09eca13bd8a8838ce76",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "0020d33eb7986102163324c5",
+            "topic": "algebra",
+            "difficulty": 4,
+            "score": 1.0
+        },
+        {
+            "qid": "c29fe01a1a1c36e47214f0f1",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "728da23ddbb6ab095be4e176",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "75d3bed355ca5ebaabdda76c",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "e831228e0f401c84ac0ffdc2",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "1ce27d9c44a2f1c82cd44f6f",
+            "topic": "algebra",
+            "difficulty": 4,
+            "score": 1.0
+        },
+        {
+            "qid": "70b2f4fb5cff45671d08d766",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "student": "Deepa Krishnan",
+    "analysis": {
+        "avg_score": 39.12,
+        "accuracy": 0.93,
+        "avg_time": 141.75,
+        "completion_rate": 1.0,
+        "strengths": [
+            "Heat Transfer",
+            "Organic Chemistry"
+        ],
+        "weaknesses": [
+            "Rotational Mechanics",
+            "Laws of Motion",
+            "Thermodynamics",
+            "Chemical Bonding",
+            "Electrostatics"
+        ],
+        "issues": [
+            "low_score",
+            "slow_speed"
+        ]
+    },
+    "recommendations": [
+        {
+            "qid": "a24b9c429ca42db0b956af67",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        },
+        {
+            "qid": "add49c5f7794e1dd4c786a2e",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "5c54898f425d8d9f2b87f6e3",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "fc7403d75e173e4eaede5fe8",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "6e92df49784dc2efcd1b237b",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        },
+        {
+            "qid": "ad303877ebce4b0f39d234b9",
+            "topic": "electrostatics",
+            "difficulty": 4,
+            "score": 0.7634
+        },
+        {
+            "qid": "71ce761497aa7947d9815df1",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "511210d472406eb1ff00d008",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "80270815fe85df2fbdaa35ad",
+            "topic": "electrostatics",
+            "difficulty": 3,
+            "score": 0.7634
+        },
+        {
+            "qid": "2545a102186d0f99f7c9e215",
+            "topic": "electrostatics",
+            "difficulty": 2,
+            "score": 0.7634
+        }
+    ]
+}

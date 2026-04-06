@@ -1,0 +1,87 @@
+{
+    "student": "Priya Patel",
+    "analysis": {
+        "avg_score": 17.62,
+        "accuracy": 0.97,
+        "avg_time": 63.14,
+        "completion_rate": 1.0,
+        "strengths": [],
+        "weaknesses": [
+            "Thermodynamics",
+            "Laws of Motion",
+            "Physical Chemistry",
+            "Chemical Bonding",
+            "Coordinate Geometry",
+            "Algebra",
+            "Organic Chemistry",
+            "Heat Transfer",
+            "Rotational Mechanics",
+            "Calculus"
+        ],
+        "issues": [
+            "low_score"
+        ]
+    },
+    "recommendations": [
+        {
+            "qid": "5cc15a45451d99e95346080e",
+            "topic": "calculus",
+            "difficulty": 2,
+            "score": 0.6478
+        },
+        {
+            "qid": "3e5233f726daca34a615a238",
+            "topic": "calculus",
+            "difficulty": 4,
+            "score": 0.6478
+        },
+        {
+            "qid": "e139096a6698ae384583036b",
+            "topic": "calculus",
+            "difficulty": 2,
+            "score": 0.6478
+        },
+        {
+            "qid": "8da85281cca1885e2f6c5f34",
+            "topic": "calculus",
+            "difficulty": 2,
+            "score": 0.6478
+        },
+        {
+            "qid": "4eb587f51a244fdc7e56b183",
+            "topic": "calculus",
+            "difficulty": 4,
+            "score": 0.6478
+        },
+        {
+            "qid": "17490a39ef0a6668f40c1851",
+            "topic": "calculus",
+            "difficulty": 3,
+            "score": 0.6478
+        },
+        {
+            "qid": "bd49440204fd424ded5edecb",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.5387
+        },
+        {
+            "qid": "c29fe01a1a1c36e47214f0f1",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.5387
+        },
+        {
+            "qid": "03cd10296eab17eafbe3370a",
+            "topic": "thermodynamics",
+            "difficulty": 4,
+            "score": 0.5387
+        },
+        {
+            "qid": "5eb129abc2d29f438ad66132",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.5387
+        }
+    ]
+}

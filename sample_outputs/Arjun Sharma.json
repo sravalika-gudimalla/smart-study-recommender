@@ -1,0 +1,81 @@
+{
+    "student": "Arjun Sharma",
+    "analysis": {
+        "avg_score": 34.14,
+        "accuracy": 0.77,
+        "avg_time": 187.67,
+        "completion_rate": 0.67,
+        "strengths": [],
+        "weaknesses": [
+            "Thermodynamics",
+            "Kinematics"
+        ],
+        "issues": [
+            "low_score",
+            "slow_speed",
+            "time_management"
+        ]
+    },
+    "recommendations": [
+        {
+            "qid": "3209eb83425ded302b2ac09d",
+            "topic": "thermodynamics",
+            "difficulty": 4,
+            "score": 1.0
+        },
+        {
+            "qid": "c80621db212f19d54dbcecc2",
+            "topic": "thermodynamics",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "03cd10296eab17eafbe3370a",
+            "topic": "thermodynamics",
+            "difficulty": 4,
+            "score": 1.0
+        },
+        {
+            "qid": "69b1a83bdceca5ffb82d2d59",
+            "topic": "thermodynamics",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "ebf6740d07b0a0c9367df148",
+            "topic": "thermodynamics",
+            "difficulty": 5,
+            "score": 1.0
+        },
+        {
+            "qid": "a880627df7ffe0297c79bfbd",
+            "topic": "thermodynamics",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "df3dbe4d58fed8a728e7eca0",
+            "topic": "thermodynamics",
+            "difficulty": 2,
+            "score": 1.0
+        },
+        {
+            "qid": "575ec87a171ac826a6fce484",
+            "topic": "thermodynamics",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "cd56481fb339258e4d27eb0d",
+            "topic": "optics",
+            "difficulty": 2,
+            "score": 0.0
+        },
+        {
+            "qid": "bd49440204fd424ded5edecb",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.0
+        }
+    ]
+}

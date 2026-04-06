@@ -1,0 +1,79 @@
+{
+    "student": "Rohan Gupta",
+    "analysis": {
+        "avg_score": 44.08,
+        "accuracy": 0.66,
+        "avg_time": 105.33,
+        "completion_rate": 1.0,
+        "strengths": [],
+        "weaknesses": [
+            "Calculus",
+            "Probability"
+        ],
+        "issues": [
+            "low_accuracy"
+        ]
+    },
+    "recommendations": [
+        {
+            "qid": "4eb587f51a244fdc7e56b183",
+            "topic": "calculus",
+            "difficulty": 4,
+            "score": 1.0
+        },
+        {
+            "qid": "3e5233f726daca34a615a238",
+            "topic": "calculus",
+            "difficulty": 4,
+            "score": 1.0
+        },
+        {
+            "qid": "5cc15a45451d99e95346080e",
+            "topic": "calculus",
+            "difficulty": 2,
+            "score": 1.0
+        },
+        {
+            "qid": "17490a39ef0a6668f40c1851",
+            "topic": "calculus",
+            "difficulty": 3,
+            "score": 1.0
+        },
+        {
+            "qid": "e139096a6698ae384583036b",
+            "topic": "calculus",
+            "difficulty": 2,
+            "score": 1.0
+        },
+        {
+            "qid": "8da85281cca1885e2f6c5f34",
+            "topic": "calculus",
+            "difficulty": 2,
+            "score": 1.0
+        },
+        {
+            "qid": "75d3bed355ca5ebaabdda76c",
+            "topic": "algebra",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "97706ca828bca0385813dbad",
+            "topic": "heat_transfer",
+            "difficulty": 2,
+            "score": 0.0
+        },
+        {
+            "qid": "a880627df7ffe0297c79bfbd",
+            "topic": "thermodynamics",
+            "difficulty": 3,
+            "score": 0.0
+        },
+        {
+            "qid": "ae7dc1cac13ee17c1c169ec9",
+            "topic": "probability",
+            "difficulty": 3,
+            "score": 0.0
+        }
+    ]
+}
